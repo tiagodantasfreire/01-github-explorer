@@ -1,5 +1,2 @@
-import React from "react";
-
-function App() {
-  return <h1>Salve Alek</h1>
-}
+import React from 'react';
+import { App } from './App'; 
