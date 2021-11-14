@@ -1,5 +1,11 @@
+import RepositoryList from './components/RepositoryList/RepositoryList';
+
 import './styles/global.scss'
 
-export function App() {
-  return <h1>Hello Pinuts</h1>
+const App = () => {
+  return (
+    <RepositoryList />
+  )
 }
+
+export default App;
