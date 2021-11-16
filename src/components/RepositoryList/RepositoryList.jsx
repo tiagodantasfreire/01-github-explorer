@@ -1,4 +1,5 @@
 import RepositoryItem from "../RepositoryItem/RepositoryItem";
+import './repositoryList.scss';
 
 const RepositoryList = () => {
   return (
